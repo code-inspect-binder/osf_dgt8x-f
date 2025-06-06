@@ -1,0 +1,44 @@
+The following package versions were used for this paper:
+
+R version 3.5.1 (2018-07-02)
+Platform: x86_64-apple-darwin15.6.0 (64-bit)
+Running under: macOS  10.14.1
+
+attached base packages:
+[1] stats graphics grDevices utils datasets methods base     
+
+other attached packages:
+[1]  metafor_2.0-0          Matrix_1.2-15          DiagrammeR_1.0.0       ggpubr_0.2             magrittr_1.5          
+[6]  MVN_5.5                knitr_1.20             broom_0.5.0            nlme_3.1-137           reshape2_1.4.3        
+[11] suddengains_0.4.0      multcomp_1.4-8         TH.data_1.0-9          MASS_7.3-51.1          mvtnorm_1.0-8         
+[16] papaja_0.1.0.9842      MBESS_4.4.3            weights_1.0            mice_3.3.0             gdata_2.18.0          
+[21] Hmisc_4.1-1            Formula_1.2-3          survival_2.43-3        lattice_0.20-38        MatchIt_3.0.2         
+[26] forcats_0.3.0          stringr_1.3.1          dplyr_0.7.8            purrr_0.2.5            readr_1.2.1           
+[31] tidyr_0.8.2            tibble_1.4.2           ggplot2_3.1.0          tidyverse_1.2.1       
+
+loaded via a namespace (and not attached):
+[1]  readxl_1.1.0          backports_1.1.2       igraph_1.2.2          plyr_1.8.4            lazyeval_0.2.1       
+[6]  sp_1.3-1              splines_3.5.1         digest_0.6.18         htmltools_0.3.6       viridis_0.5.1        
+[11] fansi_0.4.0           checkmate_1.8.5       cluster_2.0.7-1       openxlsx_4.1.0        modelr_0.1.2         
+[16] sandwich_2.5-0        colorspace_1.3-2      rvest_0.3.2           rrcov_1.4-7           haven_2.0.0          
+[21] pan_1.6               crayon_1.3.4          jsonlite_1.5          lme4_1.1-19           bindr_0.1.1          
+[26] brew_1.0-6            zoo_1.8-4             glue_1.3.0            kableExtra_0.9.0      gtable_0.2.0         
+[31] car_3.0-2             kernlab_0.9-27        Rook_1.1-1            prabclus_2.2-6        DEoptimR_1.0-8       
+[36] jomo_2.6-5            abind_1.4-5           VIM_4.7.0             scales_1.0.0          sgeostat_1.0-27      
+[41] GGally_1.4.0          Rcpp_1.0.0            sROC_0.1-2            viridisLite_0.3.0     laeken_0.4.6         
+[46] htmlTable_1.12        foreign_0.8-71        mclust_5.4.2          stats4_3.5.1          truncnorm_1.0-8      
+[51] vcd_1.4-4             htmlwidgets_1.3       httr_1.3.1            RColorBrewer_1.1-2    fpc_2.1-11.1         
+[56] acepack_1.4.1         modeltools_0.2-22     XML_3.98-1.16         pkgconfig_2.0.2       reshape_0.8.8        
+[61] NADA_1.6-1            flexmix_2.3-14        nnet_7.3-12           utf8_1.1.4            tidyselect_0.2.5     
+[66] rlang_0.3.0.1         visNetwork_2.0.4      munsell_0.5.0         cellranger_1.1.0      tools_3.5.1          
+[71] downloader_0.4        cli_1.0.1             moments_0.14          pls_2.7-0             evaluate_0.12        
+[76] cvTools_0.3.2         yaml_2.2.0            zip_1.0.0             robustbase_0.93-3     mitml_0.3-6          
+[81] bindrcpp_0.2.2        xml2_1.2.0            compiler_3.5.1        rstudioapi_0.8        rgexf_0.15.3         
+[86] curl_3.2              e1071_1.7-0           zCompositions_1.1.2   robCompositions_2.0.9 pcaPP_1.9-73         
+[91] stringi_1.2.4         trimcluster_0.1-2.1   psych_1.8.10          nloptr_1.2.1          pillar_1.3.0         
+[96] lmtest_0.9-36         data.table_1.11.8     R6_2.3.0              latticeExtra_0.6-28   gridExtra_2.3        
+[101] rio_0.5.16           codetools_0.2-15      boot_1.3-20           energy_1.7-5          gtools_3.8.1         
+[106] assertthat_0.2.0     rprojroot_1.3-2       nortest_1.0-4         withr_2.1.2           mnormt_1.5-5         
+[111] diptest_0.75-7       parallel_3.5.1        hms_0.4.2             influenceR_0.1.0      grid_3.5.1           
+[116] rpart_4.1-13         class_7.3-14          minqa_1.2.4           rmarkdown_1.10        carData_3.0-2        
+[121] mvoutlier_2.0.9      lubridate_1.7.4       base64enc_0.1-3 
